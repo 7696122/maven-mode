@@ -3,7 +3,7 @@
         url = git://github.com/upgradingdave/ecukes.git
 [submodule "util/espuds"]
 	path = util/espuds
-	url = git://github.com/aes/espuds.git
+	url = git://github.com/ecukes/espuds.git
 [submodule "util/xml-to-string"]
 	path = util/xml-to-string
 	url = https://github.com/upgradingdave/xml-to-string
